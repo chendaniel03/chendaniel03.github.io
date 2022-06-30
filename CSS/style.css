@@ -3,6 +3,10 @@
     padding:0px;
 }
 
+body{
+    background-color: #75bb44;
+}
+
 ul{
     list-style: none;
     padding:10px;
@@ -35,7 +39,7 @@ img{
     justify-content: center;
     gap:20px;
     padding:30px;
-    background-color: #b3874c;
+    background-color: #bb4475;
     border-radius: 10px;
     align-items: center;
     margin:20px;
@@ -44,4 +48,12 @@ img{
 .text{
     width:630px;
     text-align: center;
+}
+
+.form{
+    text-align: center;
+    background-color: #bb4475;
+    border-radius: 10px;
+    margin:20px;
+    padding:30px;
 }
